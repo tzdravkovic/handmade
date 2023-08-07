@@ -1,0 +1,141 @@
+.heading {
+    font-size: 30px;
+    font-weight: normal;
+    color: darkblue;
+    text-transform: capitalize;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.subheading {
+    font-size: 25px;
+    font-weight: normal;
+    color: darkgreen;
+    text-transform: uppercase;
+    text-align: right;
+    text-decoration: underline;
+}
+
+.subheading2 {
+    font-size: 25px;
+    color: lightgreen;
+    text-transform: uppercase;
+    text-decoration: underline overline;
+}
+
+.maintext {
+    text-indent: 50px;
+    font-size: 20px;
+    color: maroon;
+    text-align: justify;
+}
+
+.strong {
+    font-weight: bold;
+    color: red;
+}
+
+.text_1 {
+    font-size: 10px;
+    text-transform: uppercase;
+    text-decoration: overline;
+    color: lightblue;
+    word-spacing: 10px;
+}
+
+.text_2 {
+    font-size: 18px;
+    color: black;
+    text-transform: lowercase;
+    text-decoration: line-through;
+    letter-spacing: 6px;
+}
+
+.maintext_1 {
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: magenta;
+    text-align: right;
+}
+
+.link {
+    text-transform: lowercase;
+    font-size: 30px;
+    color: blue;
+    text-decoration: overline;
+}
+
+.centar {
+    text-align: center;
+}
+
+.link_1 {
+    color: red;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.ime {
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+.ime_1 {
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.ime_2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: orange;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.ime_3 {
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.ime_4 {
+    font-size: 20px;
+    font-weight: bold;
+    color: darkblue;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.ime_5 {
+    font-size: 20px;
+    font-weight: bold;
+    color: greenyellow;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.ime_6 {
+    font-size: 20px;
+    font-weight: bold;
+    color: yellow;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.ime_7 {
+    font-size: 20px;
+    font-weight: bold;
+    color: gray;
+    text-transform: uppercase;
+    text-align: right;
+}
